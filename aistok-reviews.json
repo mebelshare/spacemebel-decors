@@ -801,12 +801,17 @@
       "hasResponse": true
     },
     {
-      "id": 70,
-      "author": "Михаил Захарченко",
-      "authorInitользуемся 2 недели, все нравится. Спасибо.",
-      "isVerified": true,
-      "hasResponse": true
-    },
+  "id": 70,
+  "author": "Михаил Захарченко",
+  "authorInitials": "МЗ",
+  "reviewCount": 1,
+  "date": "2024-11-17",
+  "dateDisplay": "17 ноября 2024",
+  "rating": 5,
+  "text": "Отличная работа! Используемся 2 недели, все нравится. Спасибо.",
+  "isVerified": true,
+  "hasResponse": true
+},
     {
       "id": 71,
       "author": "Елена Зимина",
@@ -833,4 +838,5 @@
     "truncateLongReviews": true
   }
 }
+
 
